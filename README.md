@@ -9,7 +9,7 @@ Autonomous, Serverless Post-Quantum Cybersecurity &amp; DigiGuard Ecosystem
   <p>
     <a href="https://alb-s-site-replicati-hjbv.bolt.host/"><img src="https://img.shields.io/badge/Live_Command_Center-ALBIS_UI-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"></a>
     <a href="https://github.com/tolgakaraofficial/DigiGuard"><img src="https://img.shields.io/badge/Architecture-ALBIS_Hexaptych_v6.0-10B981?style=for-the-badge&logo=shield&logoColor=white" alt="ALBIS Engine"></a>
-    <a href="https://medium.com/@tlgkr66"><img src="https://img.shields.io/badge/Research_Papers-Medium-3B82F6?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Research"></a>
+    <a href="https://medium.com/@tolgakaraofficiall"><img src="https://img.shields.io/badge/Research_Papers-Medium-3B82F6?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Research"></a>
     <a href="https://www.youtube.com/@karprimetechnologyacademy"><img src="https://img.shields.io/badge/Academy-100_Volume_Masterclass-EF4444?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Academy"></a>
     <img src="https://img.shields.io/badge/Cryptography-NIST_PQC_Ready-8B5CF6?style=for-the-badge" alt="Post Quantum">
   </p>
