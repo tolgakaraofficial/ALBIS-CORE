@@ -153,7 +153,7 @@ DigiGuard/
 
 The DigiGuard & Cerebro architecture is backed by a monumental **100-Volume Master Technical Constitution**, systematically breaking down every mathematical proof, network protocol, and deployment topology:
 
-* **Technical Research & Whitepapers:** [Medium Publication (@tlgkr66)](https://medium.com/@tlgkr66)
+* **Technical Research & Whitepapers:** [Medium Publication (@tlgkr66)](https://medium.com/@tolgakaraofficiall)
 * **Video Masterclass & Academy (Volumes 1–100):** [Karprime Technology Academy on YouTube](https://www.youtube.com/@karprimetechnologyacademy)
 * **Primary Code Repository:** [GitHub — tolgakaraofficial/DigiGuard](https://github.com/tolgakaraofficial/DigiGuard)
 
