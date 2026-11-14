@@ -178,5 +178,3 @@ The **ALBIS Hexaptych Architecture**, **Ghost ID Zero-Telemetry Protocol**, and 
   <p><strong>DIGIGUARD & CEREBRO</strong> — <em>Securing Digital Sovereignty Beyond the Quantum Horizon.</em></p>
 </div>
 ```
-
-Bu dosyayı sağ üstteki kopyalama/indirme seçeneğiyle alıp doğrudan GitHub depondaki `README.md` dosyasının içine yapıştırarak kaydedebilirsin. Şema diyagramları, matematiksel formüller, kıyaslama tabloları ve kurumsal mimari anlatımıyla repoya giren herkesin dikkatini ilk saniyede çekecektir.
